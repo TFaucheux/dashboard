@@ -22,6 +22,7 @@ pip3 install --trusted-host files.pythonhosted.org --trusted-host pypi.org --tru
 
 # Copy app code
 cp dashboard.py dashboard/
+cp dashboard2.py dashboard/
 
 cd dashboard
 # create logo.png file if missing, before executing (must be a valid image file).

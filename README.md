@@ -38,3 +38,14 @@ I am in no way endorsing or affiliated with Claude.AI, use AI responsibily and p
 
 Happy Coding!
 
+# Interactive Dashboard Libraries
+
+This project uses the following key Python libraries:
+
+- [Streamlit](https://streamlit.io/) - for building the interactive dashboard
+- [Pandas](https://pandas.pydata.org/) - for data analysis and manipulation
+- [NumPy](https://numpy.org/) - for numerical processing
+- [Altair](https://altair-viz.github.io/) - for interactive statistical visualizations
+- [Seaborn](https://seaborn.pydata.org/) - for statistical data visualizations and styling
+- [Matplotlib](https://matplotlib.org/) - for basic charting and visualization
+
